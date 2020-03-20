@@ -1,0 +1,1 @@
+package ex_1_2; abstract class Pizza {	public abstract String obterIngredientes();}
